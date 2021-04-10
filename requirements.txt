@@ -1,3 +1,2 @@
-telebot
+PyTelegramBotAPI==3.7.4
 requests
-pillow
