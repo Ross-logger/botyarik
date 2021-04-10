@@ -1,7 +1,4 @@
 import telebot
-import PIL
-from PIL import Image
-from requests import get
 
 bot = telebot.TeleBot('1454594639:AAFsbdgaJ4ic4fbsVGONZ1dhxm7AXkPHxlo')
 
